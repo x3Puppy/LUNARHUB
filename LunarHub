@@ -16,7 +16,7 @@ local kick = true
 --// DATABASE \\--
 
 local key_storage = {
-    "KEY 1", --1
+    "MY7nXClkea", --1
     "KEY 2", --2
     "KEY 3" --3
 }
